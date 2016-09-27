@@ -1,0 +1,6 @@
+{
+  "name": "vesta",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
